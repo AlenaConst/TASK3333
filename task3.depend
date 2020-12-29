@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603554684 source:f:\3_semestr\task3\main.cpp
+	<iostream>
+	<vector>
+	<iterator>
+
